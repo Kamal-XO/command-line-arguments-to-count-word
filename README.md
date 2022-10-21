@@ -39,6 +39,21 @@ print("word count in file = ",count)
 ```
 ### OUTPUT:
 
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+
+<br>
+<br>
+
 ![OUTPUT](./output.png)
 
 ## RESULT:
