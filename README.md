@@ -23,6 +23,20 @@ Use len() to find the total words
 ### Step 6:
 Run the program to determine the number of words in the file created.
 
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+
 ## PROGRAM: 
 ### Program to sort the elements in the list using the Selection Sort algorithm.
 ```
@@ -38,7 +52,7 @@ with open (sys.argv[1],'r') as f1:
 print("word count in file = ",count)
 ```
 ### OUTPUT:
-![OUTPUT](./output.png)
+![OUTPUT](./output1.png)
 
 
 <br>
